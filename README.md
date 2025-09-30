@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30.09.2025
+## Register Number:25017491
+## Name:Lakshmi pavithra.M
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,33 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+Personalized advisories on crop management,weather forecasts, pest control and marget prices. Localized data and AI-driven insights for advisories in Punjabi. User-friendly interface for farmers with varying tech literacy.
+
+![alt text](<Screenshot 2025-09-29 215039.png>)
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+Programming language : python
+Frontend framework : ReactJS
+Backend framework : Node.js
+Hardware : IoT sensors
+Datebase : PostgreSQL
+
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+
+Assessing whether the project is practical and achievable, considering factors like technology,resources and user adoption.This involves evaluating technical capabilities, resources availability and potential barriers to implementation. It helps determine whether the project can be realistically completed within given constraints. Feasibility assessment informs decision-making and project planning.
+
+Determining whether the project is sustainable and beneficial in the long run, considering factors like cost, impact, and user value. It involves evaluating the project's potential for success and its ability to meet the needs of its target audience.
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
 
-## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+The positive effects and outcomes of the project, such as improved crop yields, increased farmer income and better decision-making. THe project's impact can lead to sustainable agricultural practices, improved food security and enhanced rural livelihoods.
+
+The advantages and gain from the project, such as increased efficiency, improved livelihoods and enhanced productivity. These benefits can lead to economic growth, social well-being and environmental sustainability for the target audience.
+
+## Research and REferences
+https://farmsmarter.app/
+https://agrevolution.in/solution-for-farmers/
+https://www.tnagrisnet.tn.gov.in/people_app/dashboard/main/en
+
